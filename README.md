@@ -756,5 +756,6 @@ canvas {
 Thank You !</h2>
 
 
-### Give a ⭐ if you like this website!
+ <h2 align= "center"> Give a ⭐ if you like this website!</h2>
+
 
