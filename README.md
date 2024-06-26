@@ -1,12 +1,17 @@
 
 
 ![titanic-iphone](https://github.com/DaveSimoes/iphone-15-pro/assets/109705197/4e278e6d-1943-40de-a4f1-af0cd560f461)
+![honkai](https://github.com/DaveSimoes/iphone-15-pro/assets/109705197/ae7a856d-f91a-417a-bfe7-d7382f8e9060)
 ![takerlook](https://github.com/DaveSimoes/iphone-15-pro/assets/109705197/bdc71d39-e96a-4e55-bd47-2ef8589f8c12)
 
-![honkai](https://github.com/DaveSimoes/iphone-15-pro/assets/109705197/ae7a856d-f91a-417a-bfe7-d7382f8e9060)
 
-# iphone-15-pro
- This project aims to recreate the Apple iPhone 15 Pro website, merging the power of GSAP animations with Three.js 3D effects. It includes everything from custom animations to 3D model animations, providing a comprehensive guide to achieve these effects.
+<div align="center">
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
+    <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  </div>
+<h3 align="center">Iphone 15 Website</h3>
 
 ##  <a name="table">Table of Contents</a>
 
