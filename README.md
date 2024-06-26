@@ -1,3 +1,10 @@
+
+
+![titanic-iphone](https://github.com/DaveSimoes/iphone-15-pro/assets/109705197/4e278e6d-1943-40de-a4f1-af0cd560f461)
+![takerlook](https://github.com/DaveSimoes/iphone-15-pro/assets/109705197/bdc71d39-e96a-4e55-bd47-2ef8589f8c12)
+
+![honkai](https://github.com/DaveSimoes/iphone-15-pro/assets/109705197/ae7a856d-f91a-417a-bfe7-d7382f8e9060)
+
 # iphone-15-pro
  This project aims to recreate the Apple iPhone 15 Pro website, merging the power of GSAP animations with Three.js 3D effects. It includes everything from custom animations to 3D model animations, providing a comprehensive guide to achieve these effects.
 
